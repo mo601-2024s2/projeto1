@@ -1,5 +1,4 @@
-# projeto1
-Projeto 1 de MO601 - Simulador RISC-V
+# Projeto 1 de MO601 - Simulador RISC-V
 
 Veja a especificação detalhada do projeto na [página da disciplina](https://www.ic.unicamp.br/~rodolfo/mo601/projeto1)
 
